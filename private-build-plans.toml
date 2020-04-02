@@ -1,0 +1,34 @@
+[buildPlans.bogdbo]            
+family = "Iosevka bogdbo"              
+hintParams = ["-a", "sss"]             
+design = ["no-ligation", "extended", "ss03", "cv05", "cv10", "cv21", "cv26", "cv32", "cv43", "cv45", "cv46", "cv51", "cv65", "cv76", "cv79", "cv81"] 
+
+[buildPlans.bogdbo.weights.regular]
+shape = 400
+menu  = 400
+css   = 400
+
+[buildPlans.bogdbo.weights.book]
+shape = 450
+menu  = 450
+css   = 450
+
+[buildPlans.bogdbo.weights.bold]
+shape = 700
+menu  = 700
+css   = 700
+
+[buildPlans.bogdbo.slants]
+upright = "normal"
+italic = "italic"
+oblique = "oblique"
+
+[widths.normal]
+shape = 5
+menu  = 5
+css   = "normal"
+
+[widths.extended]
+shape = 7
+menu  = 7
+css   = "expanded"
