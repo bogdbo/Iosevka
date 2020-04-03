@@ -1,16 +1,10 @@
 # Bogdbo customizations
 * based on v3 alpha
-* based on Consolas + cherry-picked configuration
+* based on Consolas + heavily cherry-picked configuration
 * built for the extended width
 * focus on having characters as distinct as possible (eg: 3, 7, i, 1)
-* variants: Book (extended 450), Extra bold Extended (800) and Italic (default)
-
-
-
-
-
-
-
+* variants: Regular, Book (extended 450), Extra bold Extended (800) and Italic (default)
+* Note: check alacritty settings for latest config (book extended, XbdExt and book extended for italics)
 
 
 # Iosevka ![Version](https://img.shields.io/github/release/be5invis/Iosevka.svg)
